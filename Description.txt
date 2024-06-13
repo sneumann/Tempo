@@ -1,4 +1,11 @@
-Package : SCCTemConverter 
-Type : package 
-Title : Temperature conversion package 
-Version :  0.0.1.0
+Package: Tempo
+Type: Package
+Title: A Package to Convert Temperatures Between Fahrenheit and Celsius
+Version: 0.1.0
+Author: Methun George
+Maintainer: Methun George <methungeorge333@gmail.com>
+Description: Functions to convert temperatures between Fahrenheit and Celsius.
+License: None
+Encoding: UTF-8
+LazyData: true
+
